@@ -1,0 +1,154 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(#0d0203, #ED0000);
+    color: black;
+}
+.logo{
+    width: 350px;
+    height: 300px;
+    float: right;
+    
+}
+
+
+main{
+   margin-left: 180px;
+}
+nav a{
+    position: fixed;
+    left: -80px;
+transition: 0.3s ;
+padding: 15px;
+width: 100px;
+text-decoration: none;
+font-size: 20px;
+color: black;
+border-radius: 10px;
+opacity: 0.10;
+
+
+}
+nav a:hover{
+    left: 0;
+opacity: 1;
+}
+.about{
+    top: 30px;
+    background-color:white ;
+    border: 3px solid red;
+    
+}
+.blog{
+    top: 100px;
+    background-color:white ;
+    border: 3px solid red;
+
+}
+.projects{
+    top: 190px;
+    background-color:white ;
+    border: 3px solid red;
+
+}
+.contact{
+    top: 260px;
+    background-color:white ;
+    border: 3px solid red;
+}
+.div2{
+    background-color: white;
+    border-radius: 50px;
+    padding: 15px;
+    margin-right: 50px;
+    border: 5px solid red ;
+
+    
+}
+
+.div1{
+    background-color: white;
+    border-radius: 50px;
+    padding: 15px;
+    margin-right: 50px;
+    border: 5px solid red ;
+
+
+    
+}
+.div3{
+   background-color: white;
+    border-radius: 50px;
+    padding: 15px;
+    
+    border: 5px solid blue ;
+    
+   
+}
+.div4{
+   background-color: white;
+    border-radius: 50px;
+    padding: 15px;
+float: right;
+    border: 5px solid red ;
+    
+   
+}
+.img1{
+    height: 100%;
+    width: 90%;
+    display: flex;
+}
+.img2{
+    height: 90%;
+    width: 90%;
+    display: flex;
+    border-radius: 50px;
+    border: 5px solid blue;
+    float: right;
+    margin: 5px;
+}
+iframe{
+    width: 1000px;
+    height: 300px;
+    float: right;
+   border-radius: 30px;
+   margin: 20px;
+   display: block;
+   margin-right: 40px;
+}
+h3{
+
+ background-color: white;
+ border-radius: 15px;
+ margin: 20px;
+ padding: 20px;
+ float: right;
+ 
+}
+
+.logo2{
+    width: 450px;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    
+}
+
+.text2{
+    text-align: center;
+    background-color: white;
+    margin: 50px;
+    padding: 15px;
+    border-radius: 15px;
+    border:5px solid #ED0000;
+    width: 500px;
+    float: right;
+
+ 
+    
+}
+.text3{
+    text-align: center;
+display: flex;
+    margin-left: 280px;
+}
