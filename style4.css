@@ -1,6 +1,6 @@
-body {
+body {#0d0203
     font-family: sans-serif;
-    background-image: linear-gradient(#0d0203,#0d0203,#0d0203, blue,#ED0000);
+    background-image: linear-gradient(#0d0203,#0d0203,#0d0203,#0d0203, blue,#ED0000);
     color: black;
 }
 .logo{
