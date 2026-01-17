@@ -45,13 +45,13 @@ opacity: 1;
 
 }
 .projects{
-    top: 150px;
+    top: 170px;
     background-color:white ;
     border: 3px solid red;
 
 }
 .contact{
-    top: 200px;
+    top: 240px;
     background-color:white ;
     border: 3px solid blue;
 }
