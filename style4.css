@@ -123,8 +123,16 @@ h3{
  margin: 20px;
  padding: 20px;
  
+h3{
 
+ background-color: white;
+ border-radius: 15px;
+ margin: 20px;
+ padding: 20px;
+ float: right;
+ box-shadow: 10px 10px 5px #f04e23 ;
 }
+
 
 .logo2{
     width: 450px;
